@@ -1,16 +1,46 @@
-# watsapp_ui
+# 📱 WhatsApp UI Clone - Flutter
 
-A new Flutter project.
+A clean and responsive **WhatsApp UI clone** built with **Flutter**, inspired by the official WhatsApp design. This project demonstrates how to structure and style a multi-platform messaging interface with responsiveness in mind, supporting both **mobile** and **web/tablet** layouts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📱 Mobile-first design with adaptive layout
+- 🖥️ Web/tablet responsive layout using `LayoutBuilder` & `MediaQuery`
+- 🧩 Modular widgets for scalability and reusability
+- 💬 Chat list with avatars, last message, and timestamp
+- 🔍 Search bar, floating action button (FAB), and status/chat/call tabs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Tech Stack
+
+- **Flutter** (Latest stable version)
+- **Dart**
+- **Responsive design principles**
+
+---
+
+## 📷 Screenshots
+
+> ![Screenshot_1743678757](https://github.com/user-attachments/assets/2108b303-d4fa-4e80-b6b8-f11db59b016d)
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio / VS Code
+- Emulator or device connected
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/whatsapp_ui_flutter.git
+cd whatsapp_ui_flutter
+flutter pub get
+flutter run
